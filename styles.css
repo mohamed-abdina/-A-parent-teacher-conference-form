@@ -12,3 +12,7 @@ body {
   padding: 10px 20px;
   box-shadow: 0 5px 15px black;
 }
+
+.center {
+  text-align: center;
+}
